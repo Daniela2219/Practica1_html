@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f6;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .main-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+.text{
+    color:#fff;
+    text-align: center;
+    font-size: 14px;
+}
+
+  .inner-container {
+    border:2px solid rgb(0, 0, 0);
+    background-color: rgb(2, 0, 128);
+  }
